@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingView">
+        <attr name="speed" format="integer" />
+        <attr name="clockwise" format="boolean" />
+        <attr name="horizontal_shift" format="integer" />
+        <attr name="vertical_shift" format="integer" />
+    </declare-styleable>
+</resources>

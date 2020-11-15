@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PostsApp</string>
+    <string name="loading_text">Loading</string>
+    <string name="error_text">Sorry, can not download posts</string>
+    <string name="userId_hint">userId</string>
+    <string name="title_hint">title</string>
+    <string name="publish_post_button_text">Publish post</string>
+    <string name="text_hint">text</string>
+    <string name="add_post_button_description">add post</string>
+</resources>
